@@ -12,8 +12,11 @@
 🌇日落时间：{{sunset.DATA}} 
 ❤️今天是我们相识的第{{love_day_1.DATA}}天 
 ❤️今天是我们在一起的第{{love_day.DATA}}天
-💞 距离{{birthday1.DATA}} 
+💞距离{{birthday1.DATA}} 
 💞距离{{birthday2.DATA}} 
 ✉️{{note_en.DATA}} 
 ✉️{{note_ch.DATA}} 
+
+
+
 {{greetings_today.DATA}}
